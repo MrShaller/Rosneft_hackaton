@@ -10,7 +10,7 @@ Problem statement
 ---
 <p align="center">
   <img src="https://github.com/MrShaller/Rosneft_hackaton/assets/62774239/134976e3-1a41-4a2d-ac57-76ea1e2d264b" alt="Image">
-</p>
+</p> 
 
 In a certain region 𝑅 on the plane, several functions 𝑀𝑎𝑝𝑖 𝑥, 𝑦 , 𝑖 = 1, … , 5 are defined by their values on a regular rectangular grid. It is known that all these functions are controlled by a set of unknown interrelated functions 𝐹𝑗 𝑥, 𝑦 , from which values of only one function 𝐹1 𝑥, 𝑦 are specified at several points (not necessarily coinciding with grid nodes). It is also known that the distributions of functions 𝐹𝑗 𝑥, 𝑦 are characterized by zonality (depend on coordinates 𝑥, 𝑦 ).
 
