@@ -1,6 +1,7 @@
 # Rosneft_hackaton
 
 This is [Rosneft hackaton][1] which we (I and [Mikhail Vitko][2]) have participated and secured a spot in the top 10 out of 180 teams.
+The hackathon took place in October 2023.
 
 Task: Using data from geological maps and seismic survey results, develop a predictive model for unexplored areas.
 ---
